@@ -14,7 +14,7 @@ int main()
 			k++;
 		}
 		if(k==0)
-		cout<<"ÖÊÊı£º"<<i<<endl;
+		cout<<"Prime Number:"<<i<<endl;
 		k=0;
 	}
 	return 0;
